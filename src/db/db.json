@@ -1,22 +1,6 @@
 {
   "courses": [
     {
-      "id": 1,
-      "name": "Sianna",
-      "desc": "Golden brush-tailed possum",
-      "isActive": false,
-      "price": 26,
-      "updatedAt": "1605612354"
-    },
-    {
-      "id": 2,
-      "name": "Symon",
-      "desc": "Squirrel, african bush",
-      "isActive": false,
-      "price": 29,
-      "updatedAt": "1542716602"
-    },
-    {
       "id": 3,
       "name": "Gabriell",
       "desc": "Squirrel, eastern fox",
@@ -303,22 +287,6 @@
       "isActive": false,
       "price": 61,
       "updatedAt": "1612809781"
-    },
-    {
-      "id": 39,
-      "name": "Melinda",
-      "desc": "Black-capped capuchin",
-      "isActive": false,
-      "price": 11,
-      "updatedAt": "1528743302"
-    },
-    {
-      "id": 40,
-      "name": "Eal",
-      "desc": "Lion, asian",
-      "isActive": false,
-      "price": 41,
-      "updatedAt": "1639252498"
     }
   ]
 }

@@ -20,7 +20,7 @@ const appRoutes:Routes =[
   {path: 'dashboard', component:DashboardComponent},
   {path: 'courses', component:CoursesComponent},
   {path: 'courses/add-course', component:AddCourseComponent},
-  {path: 'courses/delete/:id', component:AddCourseComponent},
+  {path: 'courses/delete/:id', component:DeleteCourseComponent},
   {path: 'courses/edit/:id', component:EditCourseComponent}
 ];
 
